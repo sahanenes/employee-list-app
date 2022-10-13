@@ -1,5 +1,6 @@
 import React from "react";
 import data from "../../utils/data";
+import "./button.scss";
 
 const Button = ({ setPage, usersPerPage, page }) => {
   const currentUserCount = data.length / usersPerPage;
