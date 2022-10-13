@@ -4,7 +4,7 @@ body {
 }
 .App {
   border: 2px solid darkgoldenrod;
-  width: 35%;
+  width: 30rem;
   margin: 5rem auto;
   /* height: 80vh; */
   text-align: center;
